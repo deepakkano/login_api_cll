@@ -144,6 +144,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
                           }
                         }                    
+    Get.off(Homepage());
 
                       },
                       child: Text(
